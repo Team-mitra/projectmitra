@@ -83,4 +83,82 @@ the hosting servers.
 
 
 Note: Tools listed/shown here are for illustration only: no endorsement implied.
-                                                             
+
+**SOME QUESTIONIER ABOUT PROJECT:MITRA**
+**Program Mangement**
+
+1. How many programmers are part of organizations that owns the budget and mile stones for the
+program.
+
+Ans: There are currently eight members who are the main and integrated part of Project – Mitra.
+We are planning to build this number with skillful volunteers and funders. We are currently
+looking forward for the collaboration with Ministry of Human Resource development and local
+government schools and education facilities. Our current idea would require our collaborations
+with NGOs contributing in the field of educative development.
+
+2. What are your management metrics for development and operations; how are they used to
+inform priorities, detect problems; how often are they accessed and used by leadership?
+
+Ans: Our key priorities are based on the asserted key value and the evaluation is real time and
+peer valued to give no scope for mis management and under commitment towards the cause.
+
+3. What have you learned in your past three days of hackathon and what did you do about it?
+
+Ans: This particular hackathon is a tool for us to represent the student and educative community
+globally about the possibilities involved in shaping futures. It is a pulpit of the sacred cause of
+our project Mitra.
+
+4. Who are the users that you deliver value to each part of the project? Can we talk to them?
+
+Ans: The creator of the project are the primary volunteers for the cause. The mentioned 8 mails
+in the primary documentation for the project are the immediate contact responders and we will
+make sure that your voices are heard and well represented.
+
+
+**Programming Teams**
+---
+1. How do you test your code?
+
+Ans: We test our code mostly with the tools mentioned in the graphical version. But our get to
+go always remains [visit website](selenium.dev)
+
+2. How automated are your development, testing, security, and deployment?
+
+Ans:  Our project is mostly a manual job with needs real time work but for the automation of our
+web developed projects in the future scope, we are working with IBM Rational Functional
+Tester.
+
+3. Who are your users and how are you interacting with them?
+
+Ans: We are in peer-to-peer interaction with the current small group of beneficiaries and users
+but as the future scope yet again we are opting for an integration with Statistical Package For
+the Social Science for accurate estimates and deep view of the statistical metrics.
+
+4. What is your (current and future) cycle time for releases to your users?
+ 
+Ans: This is a basic version online platform for the current work we have been working on. We
+are looking for more automatic and statically accurate websites with real time interaction and
+advance detection and security with a self-build hosting platform.
+
+Program Leadership
+
+1.Are teams delivering working software to at least some subset of real users every iteration
+(including the first) and gathering feedback?
+
+Ans: Yes, this testing version of remote hosted website activity is being monitories with a peer
+interaction with real time users representing a testing set of the education community.
+
+2. Is there a product charter that lays out the mission and strategic goals? Do all members of
+the team understand both, and are they able to see how their work contributes to both?
+
+Ans: Our team also act as the management along with being the developers of strategy. Thus it
+is obvious that the strategic goals are the one that both the practical development and
+strategical implementation agree upon.
+
+3. Are teams empowered to change the requirements based on user feedback?
+
+Ans: We are in a close-knit connection with the users cause the users being our friends, people
+in our neighborhood or the members of the same community. We are united to represent “The
+community of Education”. So, every development would base on the greater good of communal
+wellbeing.
+
